@@ -1,15 +1,15 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import NavigationBar from './NavigationBar.js';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
+    <div >
+		<NavigationBar/>
         <p>
 			Junius-Murphy.com
         </p>
-      </header>
     </div>
   );
 }
