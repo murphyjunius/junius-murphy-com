@@ -1,6 +1,6 @@
 import React from 'react';
 import logo from './logo.svg';
-import './App.css';
+import './App.scss';
 import NavigationBar from './NavigationBar.js';
 
 function App() {

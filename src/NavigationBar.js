@@ -1,5 +1,5 @@
 import React from 'react';
-import './NavigationBar.css';
+import './NavigationBar.scss';
 
 function NavigationBar(){
     return (
