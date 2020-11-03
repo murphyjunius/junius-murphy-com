@@ -1,10 +1,10 @@
-nav{
-	padding: 10px;
-}
+@import 'standardStyles.scss';
 
-@media (min-width: 600px){
-	nav{
-		padding: 20px;
+nav{
+	padding: 20px;
+
+	@media (max-width: 600px){
+			padding: 10px;
 	}
 }
 
@@ -15,5 +15,17 @@ ul{
 }
 
 a{
+	position: relative;
 	text-decoration:none;
+	color: #ffffff;
+}
+// TODO: Figure out how to more padding between the a elements (the pink underlines are to close for my liking)
+a:before{
+	content:"";
+	position: absolute;
+	height: 3px;
+	right: 0px;
+	bottom: -3px;
+	left: 0px;
+	background-color: $linkPink;
 }
