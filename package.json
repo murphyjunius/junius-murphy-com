@@ -1,7 +1,7 @@
 {
   "name": "junius-murphy-com",
   "version": "0.1.0",
-  "homepage": "http://murphyjunius.github.io/junius-murphy-com",
+  "homepage": "https://murphyjunius.github.io/junius-murphy-com",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
