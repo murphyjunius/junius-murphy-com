@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.c5421f9d.chunk.css",
-    "main.js": "/static/js/main.e0e69b7f.chunk.js",
-    "main.js.map": "/static/js/main.e0e69b7f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b68de386.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b68de386.js.map",
-    "static/js/2.1f836bc3.chunk.js": "/static/js/2.1f836bc3.chunk.js",
-    "static/js/2.1f836bc3.chunk.js.map": "/static/js/2.1f836bc3.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.c5421f9d.chunk.css.map": "/static/css/main.c5421f9d.chunk.css.map",
-    "static/js/2.1f836bc3.chunk.js.LICENSE.txt": "/static/js/2.1f836bc3.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/static/media/logo.103b5fa1.svg"
+    "main.css": "/junius-murphy-com/static/css/main.c5421f9d.chunk.css",
+    "main.js": "/junius-murphy-com/static/js/main.c8b7d0ac.chunk.js",
+    "main.js.map": "/junius-murphy-com/static/js/main.c8b7d0ac.chunk.js.map",
+    "runtime-main.js": "/junius-murphy-com/static/js/runtime-main.ae270e93.js",
+    "runtime-main.js.map": "/junius-murphy-com/static/js/runtime-main.ae270e93.js.map",
+    "static/js/2.1f836bc3.chunk.js": "/junius-murphy-com/static/js/2.1f836bc3.chunk.js",
+    "static/js/2.1f836bc3.chunk.js.map": "/junius-murphy-com/static/js/2.1f836bc3.chunk.js.map",
+    "index.html": "/junius-murphy-com/index.html",
+    "static/css/main.c5421f9d.chunk.css.map": "/junius-murphy-com/static/css/main.c5421f9d.chunk.css.map",
+    "static/js/2.1f836bc3.chunk.js.LICENSE.txt": "/junius-murphy-com/static/js/2.1f836bc3.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/junius-murphy-com/static/media/logo.103b5fa1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b68de386.js",
+    "static/js/runtime-main.ae270e93.js",
     "static/js/2.1f836bc3.chunk.js",
     "static/css/main.c5421f9d.chunk.css",
-    "static/js/main.e0e69b7f.chunk.js"
+    "static/js/main.c8b7d0ac.chunk.js"
   ]
 }
