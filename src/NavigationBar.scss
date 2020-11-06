@@ -1,31 +1,15 @@
 @import 'standardStyles.scss';
 
-nav{
-	padding: 20px;
-
-	@media (max-width: 600px){
-			padding: 10px;
-	}
+.navigationBar{
+	height: $navigationBarHeight;
+	background-color: $backgroundColor;
+	padding: 0 1rem;
+	border-bottom: $border;
 }
 
-ul{
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-}
-
-a{
-	position: relative;
-	text-decoration:none;
-	color: #ffffff;
-}
-// TODO: Figure out how to more padding between the a elements (the pink underlines are to close for my liking)
-a:before{
-	content:"";
-	position: absolute;
-	height: 3px;
-	right: 0px;
-	bottom: -3px;
-	left: 0px;
-	background-color: $linkPink;
+.navigationBarContents{
+	max-width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content: flex-end;
 }

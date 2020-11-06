@@ -6,9 +6,6 @@ function App() {
   return (
     <div >
 		<NavigationBar/>
-        <p>
-			Junius-Murphy.com
-        </p>
     </div>
   );
 }
